@@ -5,7 +5,7 @@
 <div align="left">
 
 ## 🎓 Education
--Student university of licence in systems of informaty
+-Student university in Systems.
 
 
 </div>
