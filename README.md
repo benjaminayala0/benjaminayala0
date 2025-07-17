@@ -5,7 +5,7 @@
 <div align="left">
 
 ## 🎓 Education
--Student university in of Systems.
+-Student university in Systems.
 
 
 </div>
