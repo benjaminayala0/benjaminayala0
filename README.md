@@ -1,17 +1,17 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&center=true&vCenter=true&width=500&lines=Hola!+Soy+Benjam%C3%ADn+Ayala;Estudiante+Licenciatura+Sistemas;Full+Stack+Developer" alt="Typing SVG" />
-
+  
+<h1 align="center">Hi , I'm Benjamin Ayala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
 <br />
 
-### 👋 About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I am a **Bachelor's Degree Student in Systems** in **Argentina 🇦🇷**.
-
-Alongside my studies, I work as a **Full Stack Developer**. I enjoy putting academic theory into practice by building real applications.
-
+- 👨‍🎓: I as a `Systems Analyst` and I am currently pursuing  **bachelor's degree in systems**.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m open for new **opportunities**, let's connect on [MY LINKEDIN](https://www.linkedin.com/in/benjamínayala/).
+<br>
 ---
 
 <div align="center">
