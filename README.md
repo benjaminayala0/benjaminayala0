@@ -1,37 +1,50 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page)](https://git.io/typing-svg)  
-
-<div align="left">
-
-## 🎓 Education
--Student university in Systems.
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5D3FD3&background=00000000&center=true&vCenter=true&width=500&lines=Hello! +I+am+Benjamín+Ayala;Bachelor's+Degree+Student+in+Systems)](https://git.io/typing-svg)
 
 </div>
 
+<br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=benjaminayala0&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+### 👋 About Me
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=benjaminayala0&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminayala0&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=benjaminayala0&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminayala0&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
+I am a **Bachelor's Degree Student in Systems** in **Argentina 🇦🇷**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-</picture>  
+Alongside my studies, I work as a **Full Stack Developer**. I enjoy putting academic theory into practice by building real applications.
 
-------
+---
 
-Last Edited on: 31/03/2025
+### 🛠️ Technologies I use
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+---
+
+### 📊 My Statistics
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=benjaminayala0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="statistics graph"  />
+    <img src="https://streak-stats.demolab.com?user=benjaminayala0&theme=tokyonight&hide_border=true&card_width=330" height="180" alt="streak chart" />
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+  </a>
+</div>
+
+
+Last Edited on: 31/01/2026
