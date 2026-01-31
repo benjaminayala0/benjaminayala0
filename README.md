@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="left">
+<br />
 
 ### 👋 About Me
 
@@ -14,28 +14,28 @@ Alongside my studies, I work as a **Full Stack Developer**. I enjoy putting acad
 
 ---
 
-### 🛠️ Technologies I use
+<div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
----
-
----
-</div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=benjaminayala0&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
+<br />
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=benjaminayala0&show_icons=true&theme=gotham#gh-dark-mode-only" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=benjaminayala0&show_icons=true&theme=gotham#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminayala0&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminayala0&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=320&theme=gotham#gh-dark-mode-only" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=benjaminayala0&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=benjaminayala0&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminayala0&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=320&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminayala0&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
+
+<br />
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
@@ -43,13 +43,16 @@ Alongside my studies, I work as a **Full Stack Developer**. I enjoy putting acad
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
 </picture>  
 
-<br>
+<br />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<a href="https://www.linkedin.com/in/benjamínayala/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 </div>
 
+<br />
+
+------
 
 Last Edited on: 31/01/2026
