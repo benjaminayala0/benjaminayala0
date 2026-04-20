@@ -9,7 +9,7 @@
 - 👨‍🎓: I am a `Systems Analyst` and I am currently pursuing a **Bachelor's degree in systems**.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m open for new **opportunities**, let's connect on [MY LINKEDIN](https://www.linkedin.com/in/benjamínayala/).
+- :thinking: I’m open for new **opportunities**
 <br>
 
 <div align="center">
@@ -67,4 +67,4 @@
 ------
 
 Last Edited on: 
-4/02/2026
+  19/04/2026
